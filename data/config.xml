@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <bgImagePath><![CDATA[../img/bg.jpg]]></bgImagePath>
+  <characterImagePath><![CDATA[../img/bah_01.png]]></characterImagePath>
+  <goodItemImagePath><![CDATA[../img/good_bottle_01.png]]></goodItemImagePath>
+</data>
